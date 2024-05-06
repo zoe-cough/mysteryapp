@@ -1,16 +1,10 @@
 {
   "files": {
-    "main.css": "/mysteryapp/static/css/main.f855e6bc.css",
-    "main.js": "/mysteryapp/static/js/main.0b95f16a.js",
-    "static/js/453.1fe4642b.chunk.js": "/mysteryapp/static/js/453.1fe4642b.chunk.js",
-    "static/media/logo.svg": "/mysteryapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/mysteryapp/static/js/main.ca5c79c8.js",
     "index.html": "/mysteryapp/index.html",
-    "main.f855e6bc.css.map": "/mysteryapp/static/css/main.f855e6bc.css.map",
-    "main.0b95f16a.js.map": "/mysteryapp/static/js/main.0b95f16a.js.map",
-    "453.1fe4642b.chunk.js.map": "/mysteryapp/static/js/453.1fe4642b.chunk.js.map"
+    "main.ca5c79c8.js.map": "/mysteryapp/static/js/main.ca5c79c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.0b95f16a.js"
+    "static/js/main.ca5c79c8.js"
   ]
 }
