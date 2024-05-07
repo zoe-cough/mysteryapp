@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/mysteryapp/static/js/main.ca5c79c8.js",
+    "main.js": "/mysteryapp/static/js/main.87b938d8.js",
+    "static/media/SampleDataset.csv": "/mysteryapp/static/media/SampleDataset.1a13c1758e940941af06.csv",
     "index.html": "/mysteryapp/index.html",
-    "main.ca5c79c8.js.map": "/mysteryapp/static/js/main.ca5c79c8.js.map"
+    "main.87b938d8.js.map": "/mysteryapp/static/js/main.87b938d8.js.map"
   },
   "entrypoints": [
-    "static/js/main.ca5c79c8.js"
+    "static/js/main.87b938d8.js"
   ]
 }
